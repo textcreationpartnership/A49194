@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall speeches, spoken by the right honourable the Earle of Loudoun, Lord high chancellour of the Kingdome of Scotland at a conference with a committee of the honourable houses in the Painted chamber, October 1646.</title>
+            <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49194</idno>
+            <idno type="STC">Wing L3087</idno>
+            <idno type="STC">ESTC R201195</idno>
+            <idno type="EEBO-CITATION">11964234</idno>
+            <idno type="OCLC">ocm 11964234</idno>
+            <idno type="VID">51658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 817:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall speeches, spoken by the right honourable the Earle of Loudoun, Lord high chancellour of the Kingdome of Scotland at a conference with a committee of the honourable houses in the Painted chamber, October 1646.</title>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+               </titleStmt>
+               <extent>[2], 33-48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>On the dispute between England and Scotland over custody of Charles I.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51658:1" rendition="simple:additions"/>
+            <p>SEVERALL SPEECHES, Spoken by the Right HONOURABLE The Earle of LONDOUN, Lord high Chancellour of the Kingdome of SCOTLAND: AT <hi>A Conferen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e with a Committee of the Honourable Houſes in the Painted Chamber,</hi> October 1646.</p>
+            <q>
+               <bibl>Proverbs 25.11.</bibl>
+               <p>
+                  <hi>A word fitly ſpoken is like apples of gold in pictures of ſilver.</hi>
+               </p>
+            </q>
+            <p>EDINBURGH: <hi>Printed by</hi> Evan Tyler, <hi>Printer to the Kings moſt Excellent Majeſty.</hi> 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:51658:2"/>
+            <opener>
+               <salute>Good Reader,</salute>
+            </opener>
+            <p>I Underſtand that the right Honourable the Lord Chancellour of <hi>Scotland</hi> had not right done him by the printed Copie of his Speech to the Kings Majeſtie at <hi>New-caſtle,</hi> concerning the Pro<g ref="char:EOLhyphen"/>poſitions of Peace, there being in that Copie Errours and Omiſſi<g ref="char:EOLhyphen"/>ons, and both material; which hath moved me to reſolve, as to print the former according to the true Copie, ſo for preventing the like mi<g ref="char:EOLhyphen"/>ſtakes and miſ-repreſentations, firſt to procure to my ſelf, and now to communicate to the publike view, the true tranſcrips of theſe laſt three Speeches: In which thou ſhalt find the merit of an excellent ſub<g ref="char:EOLhyphen"/>ject to ſpeak for it ſelf, for thou haſt here a moſt ſolid, judicious, can<g ref="char:EOLhyphen"/>did, and plain debate, concerning the beſt and moſt hopeful means of attaining a ſpeedy and happy Peace, which may put a period to the laſting miſeries of theſe three Kingdoms: Read and conſider, and beware thou do not receive with the left hand what is reached forth with the right; This Noble Lord hath dealt freely and faithfully both with King and Parliament; and, as Truth and plain dealing did appear in his Speeches, ſo what he ſpake is here faithfully imparted; and thou maiſt be confident, that in this it holds true, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <closer>
+               <signed>Thine to ſerve thee for the Publike good, G. A.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="33" facs="tcp:51658:2"/>
+            <head>The Lord Chancellour of <hi>Scotland</hi> his firſt Speech: At a Conference in the Painted Chamber with a Committe of both Houſes, Octob. 1. 1646.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He end of this Conference is to adviſe what is fit to be done for the Peace and Security of the Kingdomes in relation to the King, and how to diſpoſe of his Majeſties Perſon, which is a matter very tick<g ref="char:EOLhyphen"/>liſh, and of moſt high concernment; and they who would build ve<g ref="char:EOLhyphen"/>ry high, muſt dig very low for a firm foundation: And therefore I ſhall make bold to deſire, That what ever we reſolve upon concerning the Kings Majeſty, it may be done by joint advice and conſent of both Kingdoms, and that the Unity between the Kingdomes may be inviolably preſerved, as that wherein (next to Gods protection) the chief ſtrength of both lies, which would be laid as a ground of our future debates. And becauſe the purpoſe we are to ſpeak of is ve<g ref="char:EOLhyphen"/>ry grave and ſerious, I ſhall ſpeak of it with that ſincerity, as I wiſh my words were written with the beams of the Sun, and regiſtred to poſterity, that all the world might ſee the candor and integrity of our proceedings towards the King and our Brethren of <hi>England.</hi> And (is I had occaſion once to expreſſe in this place) ſo do I now ſay, That no man hath conſcience nor honour who will not remember our ſolemn League and Covenant, as the ſtrongeſt bond under heaven between God and man, between man and man, and between Nation and Nation, in which our Unity is founded upon Verity in a threefold relation; to God, to the King, and amongſt our ſelves. The firſt is the greateſt, and aſcends as high as heaven: for <hi>Religion,</hi> which hath its name <hi>a religando,</hi> unites us to God himſelf: and ſo long as he is in League with us, we need not fear who be againſt us. Let us therefore hold faſt our Unity in Religion, and beware of Toleration of all Religions, which is the ready way to have none; for there is nothing more divine in God then Uni<g ref="char:EOLhyphen"/>tie, and nothing more Diabolicall in the Divell then Diviſion, who therefore is known to the vulgar by his cloven foot to be the ſpirit of Diviſion.</p>
+            <p>The next ground and relation of our Unity, is with the King, to whom we are bound (in the ſtricteſt bonds of loyall Subjection) by our Allegeance and Cove<g ref="char:EOLhyphen"/>nant, as to one Head and Monarch: and therefore the faithfull endeavours of both Kingdoms ſhould (without wearying) be conſtantly contributed, That we may be united to him by a happy and juſt Peace: For if one of the Kingdoms ſhall caſt off the King, and the other have a King; if the one ſhall make Peace with the King, and the other not make Peace, but be ſtill at variance with him, it is to be feared, that no humane wit nor policie will be able to keep the two Kingdoms long without a rupture; And if it pleaſe God ſo to incline the Kings heart, and direct the wiſdome of the Parliaments, as that the King and wee could make a happy a<g ref="char:EOLhyphen"/>greement, no power or policie can be able to divide us; for, <hi>Qui conveniunt uni tertio, conveniunt inter ſe.</hi>
+            </p>
+            <p>The third ground and relation of our Unitie, is the conjunction of the two Kingdoms, which hath been acknowledged to be ſo neceſſary and uſefull to both,
+<pb n="34" facs="tcp:51658:3"/>That they have often declared, they would ſtand and fall, and (like <hi>Hippocrates</hi> twins) live and dye together. And therefore, as we regard our ſolemn Covenant with God Almighty, and tender the ſtanding and ſafety of the Kingdomes, let us (with one heart and mind) joyn our Counſels and Actions, That whatſoever we reſolve upon for our common Peace and Security in relation to the King, and of each Kingdom to other, that it be done in zeal to Religion, in loyalty to the King, and with unanimity amongſt our ſelves. And as the Pythagoreans did note the number of Two with the mark of Infamy,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erus <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ius <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>is eſt pri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>auſus diſce<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ab u<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e.</note> as being the firſt number that durſt part from Unity; ſo, which ſoever of the Kingdoms ſhall firſt violate the Unity which is bound up in our Covenant, may apply it to themſelves: But if we ſhall adhere to that Unity which is builded upon the firm foundation of Verity, in our relati<g ref="char:EOLhyphen"/>ons to Religion, the King, and amongſt our ſelves, it will be a three-fold cord which is not eaſily broken; and our Unity, I hope, ſhall be turned into an Identity, both Kingdomes may be perfectly one.</p>
+            <p>Having thus in the firſt place laid a ground for Unity of Counſels and Reſolu<g ref="char:EOLhyphen"/>tions, I ſhall in the next place humbly deſire and proteſt, That what-ever may be our Propoſitions or Debates concerning the King, it be not miſ-conſtrued, as if one of the Kingdomes were impoſing conditions upon the other, or that we are ab<g ref="char:EOLhyphen"/>ſolutely wedded to any one deſire more then to another; but that (all ſeverall waies being amicably debated and rightly pondered,) That which may ſerve moſt for the ſafety, ſecurity and happineſſe of the King and both Kingdomes, may be gravely reſolved upon. And now I come to the Queſtion it ſelf, concerning the diſpoſing of His Majeſties Perſon; firſt Negatively, and then Poſitively. Nega<g ref="char:EOLhyphen"/>tively, the Queſtion is not of the power and authoritie of the Houſes of Parliament in diſpoſing of any perſon, or judging of any caſe which is of ſingle concernment to <hi>England:</hi> Nor is the Queſtion how the Kings Perſon may be diſpoſed of <hi>de facto</hi> by any one of the Kingdoms; neither is the Queſtion properly <hi>de jure &amp; poſſe,</hi> but <hi>de eſſe, &amp; bene eſſe:</hi> And as it is neither good Logick nor good Divinity to argue <hi>a poſſe ad eſſe;</hi> ſo ſure I am, in this caſe it is far worſe policie for either Kingdome to diſpute what they may do in the height of their power, when both are conſulting what is ſitteſt to be done for the Peace and Security of both. And the relation of both Kingdoms to his Majeſty, and of each Kingdome to other being rightly con<g ref="char:EOLhyphen"/>ſidered, as he is King to both, as both are Subjects to him, as both are ingaged in the ſame Cauſe, and have been in the ſame War, and are labouring under the ſame Danger, are ſeeking the ſame Remedies, and ſhould have the ſame Security; we do hold, that the diſpoſing of the Kings Perſon doth not properly belong to any one of the Kingdomes, but joyntly to both. And after <hi>Scotland</hi> hath ſuffered the heat of the day and winters cold, have forſaken their own peace for love of their Brethren, have ſet their own houſe on fire to quench theirs: After ſo much expenſe of their blood in all the three Kingdomes, after we have gone along with you in all the hardſhip of this War, and (without vanity be it ſpoken) have been ſo uſe<g ref="char:EOLhyphen"/>full in this Cauſe: And that the King hath caſt himſelf into the hands of the Scot<g ref="char:EOLhyphen"/>tiſh Army, and that by the bleſſing of God upon the joynt indeavour of both Kingdoms we are come to the harbour of a peace; We cannot expect, that the ho<g ref="char:EOLhyphen"/>nourable Houſes will think it agreeable with conſcience or honour, or with the ju<g ref="char:EOLhyphen"/>ſtice of the Houſes, that the Perſon of the King ſhould be diſpoſed of by them as they ſhall think fit, or by any one of the kingdoms alone; but that what ever ſhall be reſolved in this, may be done by joynt advice of both, as may ſerve moſt for the peace, ſecurity, and happineſſe of both Kingdoms.</p>
+         </div>
+         <div type="speech">
+            <pb n="41" facs="tcp:51658:3"/>
+            <head>
+               <hi>The Lord Charcellour of</hi> Scotland <hi>his ſecond Speech: At a Conference in the Painted Chamber, with a Committee of both Houſes,</hi> Octob. 6. 1646.</head>
+            <p>AT our laſt meeting in this conference, your Lordſhips did aſſert the Vote of the Houſes, That the Perſon of the King ſhould be diſpoſed on as the two Houſes ſhall think fit: And we did hold, that the King, who is the Head and Monarch of both Kingdomes, ought not to be diſpoſed of by any one of the Kingdoms, but by joynt advice of both, as might ſerve moſt for the peace, happineſſe, and ſecurity of his Majeſty and both kingdoms, which we fortified with ſeverall arguments from the intereſts and relations which both Kingdoms have equally to the King, and from the covenant and treaty between the Kingdoms, as the beſt way to preſerve our Unity. But ſince your Lordſhips do adhere to the Vote of the Houſes, as that which you cannot part from, We do humbly deſire, that your Lordſhips may be pleaſed (in time convenient, at the cloſe of this conference) to report the difference of our judge<g ref="char:EOLhyphen"/>ment to the honourable Houſes, who upon better reaſons both may, and (we hope) will take their Vote into further conſideration: And ſo with reſervation of our judgement, that the diſpoſing of his Majeſties perſon doth belong to both; and not to any one of the Kingdoms, eſpecially in ſuch a juncture of affairs, as both Kingdoms ſtand engaged in this cauſe; I ſhall deſcend particularly how the Kings Perſon ſhould be diſpoſed of to the beſt advantage of both Kingdoms, and for at<g ref="char:EOLhyphen"/>taining ſuch a happy peace as all good men ſhould deſire. But leſt we ſhould walke in the dark upon obſcurity of ambiguous words, I ſhall deſire that the word of diſpoſing of the Kings perſon may be rightly underſtood, and the true ſenſe of it may be clearly known: For, <hi>Dolus verſatur in univerſalibus.</hi> For, <hi>To diſpoſe of the Kings perſon, as both Houſes, or both Kingdoms ſhall think fit,</hi> may in ſome ſenſe be to depoſe, or worſe: But becauſe the word <hi>[Diſpoſe]</hi> may admit a more benigne interpretati<g ref="char:EOLhyphen"/>on, as when men commit their eſtates and children, or that which is deareſt to them to be diſpoſed of, (which is but to be adviſed) by theſe who have neareſt re<g ref="char:EOLhyphen"/>lation to them, and in whom they repoſe moſt truſt: I ſhall ſpeak of the diſpoſing of his Majeſties royal perſon in that ſenſe, (which I hope) is alſo the ſenſe of the Houſes. Nor do I know any other way how his Majeſties perſon can be diſpoſed of, but that he be put either under reſtraint, or be at freedom with honour and ſafety. As for the way of reſtraint, I look upon it as it looks upon us, as a remedy more dan<g ref="char:EOLhyphen"/>gerous then the diſeaſe, &amp; as a mean to draw the war of forain Kings upon us (eſpe<g ref="char:EOLhyphen"/>cially the Prince being in other Kingdoms) rather then to quiet our troubles at home. And therefore ſuppoſing that none of the Kingdoms will take any way con<g ref="char:EOLhyphen"/>cerning his Majeſties perſon, but ſuch as may conſiſt with duty and honour, and which may leſſen, and not encreaſe our troubles, I ſhall lay aſide the way of reſtraint, and ſpeak of the way which may be with freedom, honour and ſafety, which can be no other, but that his Majeſty ſhall go into <hi>Scotland,</hi> or come to his Parliament here, or ſome of his houſes near-abouts.</p>
+            <p>His going into <hi>Scotland</hi> is full of dangers and inconveniencies to both King<g ref="char:EOLhyphen"/>doms: The <hi>Amalekites</hi> are not yet driven out of that I and. The bloody barbarous <hi>Iriſh,</hi> banded with a wicked crew of Malignants, poſſeſſe the mountains and high<g ref="char:EOLhyphen"/>lands, which are the ſtrong holds, and never conquered parts of that Kingdom.
+<pb n="42" facs="tcp:51658:4"/>They have not laid down arms, but keep in a body together, and they are ſo near <hi>Ireland,</hi> as the Forces of the Rebels there may in two or three houres ſpace come over and joyn with them: and <hi>(Scotland)</hi> not being able to keep and entertain Armies long, the King being there, may raiſe ſuch forces in <hi>Scotland,</hi> as may make way quickly into <hi>England.</hi> And therefore his Majeſties going into <hi>Scotland</hi> (before our peace be ſetled) being of moſt dangerous conſequence to both Kingdoms, I ſhall humbly offer to your Lordſhips conſideration his Majeſties comming to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or ſome of his houſes hereabouts, as the moſt probable way to procure a ſpeedy and happy agreement, which is alſo his Majeſties own deſire in his Anſwer to the Propoſitions. And although no perſwaſion of ours could prevaile to procure a more ſatisfactory anſwer for the time, then what is returned to the Houſes of Parliament, yet (I aſſure your Lordſhips) that the Committee of Eſtates of the Parliament of <hi>Scotland,</hi> and the Noblemen, who were at <hi>Newcaſtle,</hi> did faithfully contribute their beſt endeavours, that his Majeſty might have given his aſſent to the Propoſitions: And, as we did then deliver our minds with that plainneſſe and freedom which was fit for faithfull and loyal Subjects, with no leſſe regard to this Kingdom, then our own Nation; ſo are we now (with the ſame candor and tenderneſſe of affection) willing and ready to concurre with the honourable Houſes in every thing which may promote the great work of Reformation; and ſettle Religion according to the Co<g ref="char:EOLhyphen"/>venant with a well grounded peace. And for theſe ends, we deſire, that his Maje<g ref="char:EOLhyphen"/>ſties anſwer may be improved to the beſt advantage of the publick.</p>
+            <p>For albeit the King hath not given a preſent aſſent to the Propoſitions, yet he hath not in his anſwer refuſed them; but doth promiſe, That he will cheerfully grant and give his aſſent unto all ſuch Bils (at the deſire of the two Houſes) and rea<g ref="char:EOLhyphen"/>ſonable demands for <hi>Scotland,</hi> which ſhall be really for the good and peace of his people: To which end he deſireth and propoſeth that he may come to <hi>London</hi> (or any of his houſes thereabouts) upon ſecurity, That he ſhall be there with honour, freedome, and ſafety, as the beſt expedient to procure a happy agreement between his Majeſty and his Parliament, which we deſire may be weighed in the ballance of righteous judgement, as a buſineſſe of the greateſt conſequence which can fall within humane conſideration, and wherein the glory of God is moſt concerned of any buſineſſe under heaven. For upon a bleſſed agreement between the King and his Parliament, Religion and Righteouſneſſe, Truth and Peace, which are the compend and height of all happineſſe will be eſtabliſhed, to the eternall fame and glory of great Britain, and the great comfort of all the Proteſtant churches: And upon our diſagreement, all the calamities of a bloody and unnaturall war, will be continued, and nothing heard nor ſeen in church nor State but confuſion. God hath brought both Kingdomes through the ſurges and waves of a boiſterous tempeſt, into the harbour of a peace, and hath ſcattered moſt part of our Enemies, &amp; now our work is how to come a-ſhoare, &amp; eſtabliſh a right peace. I hope it is as far from our deſires and intentions as it is againſt our Covenent and Profeſſions, to change fundamentall government. We have need to take heed that we run not from one extream into another; <hi>Dum ſtulti vitant vitia, in contraria currunt:</hi> Therefore our ſtudy would be how to cure the wound which our ſins and the evill counſels of others have made between the King and his Parliament to make up the breach, and not make it wider.</p>
+            <p>It hath been univerſally acknowledged, That the Kings removall from his Par<g ref="char:EOLhyphen"/>liament
+<pb n="43" facs="tcp:51658:4"/>is the immediate and chiefe cauſe of all the war, miſchiefe, and calami<g ref="char:EOLhyphen"/>ties of the kingdomes: Then his Majeſties preſence in joyning with his Parlia<g ref="char:EOLhyphen"/>ment muſt be the beſt, if not the onely remedy to remove our traubles, for it is a maxime no leſſe true then common, that <hi>Contraries have Contrary conſequents.</hi>
+               <note place="margin">Contrari<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rum cont<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tia ſunt c<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſequentia</note>
+            </p>
+            <p>The King deſires to come to his Parliament, not onely to have his doubts clec<g ref="char:EOLhyphen"/>red, and have theſe difficulties explained which hinder his conſent to the Propoſi<g ref="char:EOLhyphen"/>tions as they now ſtand: But likewiſe that his coming may raiſe a mutuall confi<g ref="char:EOLhyphen"/>dence between him and his Parliament: If the laſt were done, the firſt would ſoon be performed, and all thoſe mountaines of difficulties would eaſily be removed, and become valleys.</p>
+            <p>Your Commiſſioners had no power to give any reaſons, no not ſo much as tell what is the meaning of any of your demands, nor hearken to any deſire of the Kings, And certainly ſome things might be juſtly moved by his Majeſty, which are neceſſary for the Crowne and a well grounded Peace, as, That he may have his Revenues, That he may returne with honour and ſafety to his crowne and go<g ref="char:EOLhyphen"/>vernment; And if the King were with his Parliament, where hee might both give and receive ſatisfaction, he might with reaſon be convinced, to aſſent to what hee now conceives to be unreaſonable.</p>
+            <p>The making of a peace, is ſo great and glorious a worke, and ſo acceptable to all good men, and to the whole people, that it would (after ſo great trouble) be like raine to the new mowne graſſe, or like a reſurrection from the dead, and is a worke worthy of a Kings preſence: And the King may without arrogancy deſire that glory to himſelfe, the more to reingratiate him to his people, and not devolve that honour wholly to any other, wherein he himſelfe ought to be the prime Actor. And therefore the Kings preſence with his Parliament is the moſt probable way to attaine to a ſpeedy and bleſſed peace, which certainly will be the more durable, if it be with the good liking of both ſides.</p>
+            <p>I know there is one common objection (and I know not another) wherewith many are poſſeſt and prejudiced againſt the Kings coming to his Parliament, That his preſence may breed diviſion, and that he may thereafter withdraw and continue our troubles. <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>Concord</hi> (I confeſſe) is that by which Kingdoms and Com<g ref="char:EOLhyphen"/>mon-wealths do flouriſh, and there is nothing more dangerous then diviſion, <hi>Concordia enim res parvae creſunt, diſcordia vero maximae dilabuntur.</hi> But is there any greater or more dangerous diviſion, then to have the Head devided from the body, go have the King divided from his Parliament, the repreſentative body of the kingdome, whereof he is the Head? Hath not this diviſion divided brother againſt brother, the father againſt the ſon, and the ſon againſt the father, and Countrey a<g ref="char:EOLhyphen"/>gainſt countrey? This diviſion is the cauſe of all our other diviſions; Take this away and all cur other diviſions are at an end. <hi>Ablata cauſa tollitur effectus.</hi> The King doth (with all earneſtneſſe) deſire to be joyned with you, and ſtands more in need of rec<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ciliation, and I hope will (according to his profeſſion) en<g ref="char:EOLhyphen"/>deavour it rather then diviſion; And (I truſt) the wiſdom of the honourable Hou<g ref="char:EOLhyphen"/>ſes is ſuch as they will doe ſo too, and rather be reconciled to the King, then di<g ref="char:EOLhyphen"/>vide amongſt our ſelves. And that argument, not to admit of the Kings coming to his Parliament, becauſe his preſence may breed diviſion, is an argument to de<g ref="char:EOLhyphen"/>barre him perpetually from his Parliement And now the caſe is altered from what it was, when it was thought unfit, that the King ſhould come to his Parliament, becauſe then he had forces in the fields, gariſons and ſtrong holds to return to:
+<pb n="44" facs="tcp:51658:5"/>Now he hath none of theſe againſt you, And his deſire of coming to his Parlia<g ref="char:EOLhyphen"/>ment, cannot be but with reſolution to agree and ſtay with you, for if he were once with you, where can he go from you? And if they were eſteemed enemies to the Parliament and the peace of the kingdoms, who adviſed the King to withdraw from his Parliament, what eſtimation will the world have of them, who will not ſuffer him to returne to his Parliament, when he offers to caſt himſelfe in your armes? Nor can there be a more reall teſtimony of our reſpect and affection to <hi>England,</hi> then that we deſire he may be with you, and be adviſed by you, neither can you have any greater honour, then that (after you have diſſipated your Enemies) his Majeſty is willing to returne to you, And if ſo kind an offer ſhall be refuſed, and the King driven to deſpaire, it is to be feared, theſe kingdomes will be invol<g ref="char:EOLhyphen"/>ved in greater difficulties then ever, and we ſhal be driven out of the harbour and entrance of a peace, into the tempeſt of new and bloudy wars.</p>
+            <p>For although <hi>Scotland</hi> be moſt willing and deſirous that the King ſhould return to his Parliament with honour, ſafety, and freedom, and that he may remaine where his perſonal preſence may ſerve moſt for the ſecurity and happineſſe of his people; yet if any ſuch courſe ſhall be taken, or any demand made for rendring of his perſon, which cannot ſtand with his honour and ſafety, or which cannot con<g ref="char:EOLhyphen"/>ſiſt with our duty, allegeance and Covenant, nor with the honour of that Army, to whom (in time of his extreme danger) he had his recourſe for ſafety; it cannot be expected that we can be capable of ſo baſe an Act. And if (to ſhun this, and avoid occaſion of quarrelling between the Kingdomes) he ſhall go to <hi>Scotland,</hi> and re<g ref="char:EOLhyphen"/>ſent his expulſion out of <hi>England,</hi> and crave the aſſiſtance of that kingdome, for re<g ref="char:EOLhyphen"/>covery of his right to his crowne; He may in a ſhort time raiſe ſuch Forces in <hi>Scotland</hi> and <hi>Ireland,</hi> as with the aſſiſtance of Foraine Princes, theſe kingdomes may be made a field of bloud, and the youngeſt amongſt us not live to ſee the end of theſe unnaturall wars. But if the preſent opportunity be wiſely mannaged, and that we maintain the juſt priviledges of Parliament and liberty of the Subject in both kingdomes, with that wiſdome and diſcretion, as that may be given to God which is Gods, and to <hi>Coeſar</hi> what is <hi>Goeſars,</hi> if we feare God and the King, and doe not meddle with them who are given to change, That ſame divine providence and wiſdome which hath brought us through many difficulties, will alſo teach us how to eſtabliſh theſe kingdomes in peace, and the Kings Throne in righteouſneſſe, That the great bleſſing of a conſtant and friendly conjunction of the two king<g ref="char:EOLhyphen"/>domes (now united by allegeance and loyall ſubjection to one Soveraigne and Head) may be firmly obſerved and continued to all poſterity.</p>
+         </div>
+         <div type="speech">
+            <head>The Lord Chancellour of <hi>Scotland</hi> his laſt ſpeech, at a conference in the Painted chamber, with a Committee of both Houſes, <hi>October</hi> 10.1646.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>THis day I hope will bring our conference to ſome reſults to be reported to the Houſes, and therefore I ſhall frame my Diſcourſe and Arguments with that ſuc<g ref="char:EOLhyphen"/>cinctneſſe as may bring us ſooneſt to a cloſe.</p>
+            <p>At our firſt meeting, the ſubject of our debate was, Whether the Right &amp; Power
+<pb n="45" facs="tcp:51658:5"/>of diſpoſing the perſon of the King, is ſolely in the two Houſes, as they ſhall think fit, or in the two Kingdoms; and at our laſt meeting, we had ſome arguing about the ſame queſtion, but your Lordſhips did ſtill aſſert the Vote of the Houſes; and we ſay (in reſpect of the intereſt and relations which both Kingdoms have equally to the King, eſpecially in the preſent juncture of affairs, when both Kingdoms are entred in the ſame league and covenant, have jeoparded their lives in the ſame war, are labour<g ref="char:EOLhyphen"/>ing under the ſame danger, are ſeeking the ſame remedies, and ſtand in need of the ſame peace and ſecurity; and both Kingdoms are bound by our <hi>Covenant</hi> to preſerve Unity, and are obliged by Treaty that none of us ſhall make any peace, ceſſation, or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>greement whatſoever, without mutuall advice and conſent of both) That the perſon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the King cannot be diſpoſed of without the joint advice and conſent of both Kingdoms. But as we do acknowledge that <hi>England</hi> hath parity of intereſt with <hi>Scotland,</hi> ſo do we ſtill offer that they ſhall have parity of power in diſpoſing of the King: and we do affirm, that the perſon of the King, who is King of <hi>Scotland</hi> as well as of <hi>England,</hi> and is Head and Monarch of both kingdoms, cannot be diſpoſed of by any one of the kingdoms alone: but what ever is to be done concerning the diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſing of his Majeſties perſon, ought to be done by joynt advice and common con<g ref="char:EOLhyphen"/>ſent of both, as may ſerve moſt for the Peace, ſecurity, and happineſſe of the King and Kingdomes, which we did prove by ſeverall Arguments: To which there was nothing anſwered in effect, but, that the King being within <hi>England,</hi> his perſon was to be diſpoſed of as the two Houſes ſhall thinke fit, and that the King being with the Scottiſh Army, and they being paid by the Parliament of <hi>England,</hi> he is in effect in the power of the Houſes, and ought to be at their diſpoſing, in the ſame way as if he had come to the army of Sir <hi>Thomas Fairfax,</hi> or any other of the Parliaments armies. To which we ſhall not need to make any reply other then we have made already, I hat the Kings preſent reſidence in <hi>England,</hi> nor no locality, can take away the reality of our relations formerly mentioned by us, far leſſe can it take away the engagements and ſtipulations between the kingdoms; and though the Scottiſh a my be paid by the Parliament of <hi>England,</hi> yet they are the Army of <hi>Scotland,</hi> raiſed for purſuance of the ends of the <hi>Covenant,</hi> and are to be ordered and directed by the Parliaments or com<g ref="char:EOLhyphen"/>mittees of both kingdoms: and therefore they cannot with conſcience, duty, nor honour, deliver the perſon of the King without his own conſent, to be diſpoſed of as the two Houſes ſhall think fit: but we have declared, and do ſtill declare, that we are content that the perſon of the King be diſpoſed of (the word Diſpoſed being taken in a right ſenſe) as may ſerve moſt for the peace, ſafety, ſecurity, honour and happi<g ref="char:EOLhyphen"/>neſſe of the King and both kingdoms: and did offer to your Lordſhips conſideration his <hi>Majeſties</hi> comming to or neer <hi>London,</hi> as the moſt probable means to procure a ſpeedy and well-grounded peace. And ſeeing your Lordſhips have done us the ho<g ref="char:EOLhyphen"/>nour to meet with us in this free and brotherly conference, we do expect that you wil concur and aſſent to this propoſition, or propound a better expedient for the good of both kingdoms. But if the honourable houſes will not admit of this propoſition, our next deſire is (that it may appear, no lawfull and poſsible means are left unaſſayed which may procure a happy agreement betwixt the King &amp; his Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liaments, and for our further exoneration) that Commiſsioners may yet once more be ſent from both Kingdoms to his <hi>Majeſty,</hi> to ſhew the meaning of our Propoſitions &amp; to aſſert them, and to hear the Kings doubts, &amp; difficulties, and deſires, who may further intimate, that (if his <hi>Majeſty</hi> ſhall not give a ſatisfactory anſwer to the propoſitions) then both
+<pb n="46" facs="tcp:51658:6"/>Kingdoms will without making any ſuch further application to him, take ſuch courſe as they ſhall judge fitteſt for the peace and ſecurity of the kingdoms.</p>
+            <p>And as at the opening of this conference, I did begin with an humble, lawfull and laudable deſire for unity in relation to Religion, the King, and amongſt our ſelves; ſo ſhal I cloſe in the ſame dialect. For the firſt of Religion, if we do remember our vows to God to perform them, and ſhall endeavour really, conſtantly, and ſincerely, the reformation of religion, and uniformity according to our <hi>Covenant,</hi> we may certainly expect that God will crown this great work, wherein he hath honored us to be actors with his bleſsing; but if in place of uniformity, which we are obliged to endeavour there ſhall be a toleration of all ſects and ſorts of religion, and if we neglect to build the houſe of God, and become inſolent upon our ſucceſſes; although we could mount up with Eagles wings, and build our neſts as high as the ſtartes, and had an army who for valour and ſtrength could march to <hi>Conſtantinople,</hi> God ſhall lay our glory low in the duſt, and ſuffer the work to fall in our hands, like the confuſion of <hi>Babel,</hi> And whatever hath been moved by us concerning the <hi>King,</hi> we deſire it may be rightly conſtructed, as proceeding from ſuch as have not wavered from their firſt principles; for when the <hi>King</hi> was in the height of his power, we did not, and (I hope) never ſhall flatter him; and when the enemy was in the height of their pride and ſtrength, <hi>Scotland</hi> did fear no colours: and now when the <hi>King</hi> is at his loweſt ebbe, and hath caſt himſelf into our army for ſafety, we hope your Lordſhips will pardon us from our ſenſe of honour and duty to be very tender of the perſon and poſterity of the <hi>King,</hi> to whom we have ſo many neer relations, and not like the worſe of us: that we cannot ſo far forget our allegiance and duty, as not to have an antipathy againſt the change of Monarchical government, in which we have lived through the deſcent of ſo many Kings, and under which both kingdoms have been governed ſo many ages, and flouriſhed In all happineſſe. And now my laſt word ſhall be for conſtant unity between the kingdoms, which as it hath been the chief means to promote the great work wherein both kingdoms are ſo deeply engaged, ſo there is nothing can make us ſo formidable to our enemies, nor ſo much aiding one to another, as the cheriſhing and continuing thereof; and I dare ſay that no man would divide the one from the other, but ſuch as deſire to fiſh in troubled waters, and are reall enemies to both. God hath bleſt the joint endeavours of both Nati<g ref="char:EOLhyphen"/>ons, both are in one ſhip, and are come through a very great ſtorm; and now when we are come into the harbour, it would be great ſhame to both to ſplit upon the rocks of diviſion (<hi>&amp; devorato bove deficere in cauſa</hi>) and your Lordſhips may be confident that <hi>Scotland,</hi> who have eſteemed no hazard too great for ſetling of Religion and love to their Brethren, will ſtick ſo faſt and firmly to you (ſo long as you hold the principles of your <hi>Covenant</hi>) as no fear nor favour will ever be able to divide them from you, and we do expect that reciprocal amity which may perpetuate our unity.</p>
+         </div>
+         <div type="speech">
+            <head>The Lord Chancellour of Scotland his Speech, to the Kings Majeſty at Newcaſtle.</head>
+            <p>YOur Majeſty was pleaſed on Monday laſt to cal the Lords of your Privy coun<g ref="char:EOLhyphen"/>ſel of <hi>Scotland</hi> &amp; the Committee, to acquaint them with the Propoſitions, &amp; told, that before the delivery of your anſwer you would make the ſame known to
+<pb n="47" facs="tcp:51658:6"/>them. The time aſſigned for the ſtay of the commiſſioners is ſo ſhort, &amp; the conſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uence of your Majeſties anſwer is of ſo great importance, either for the preſervation, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ruine of your Crown and Kingdoms as we could not be anſwerable to God, nor to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut truſt repoſed in us, unleſſe we repreſent to your Majeſty how neceſſary it is (as the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondition of affairs now ſtand, and in ſo great an extremity) that your Majeſty ſhould <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſent to the Propoſitions, and that the danger and loſſe of your refuſall will be re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edileſſe, and bring on ſudden ruine and deſtruction.</p>
+            <p>I ſhall begin firſt with the laſt, which is the danger, and ſhall next ſpeak a word of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e remedy: The differences between your Majeſty and your Parliament (which no <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an knows better then your Majeſties ſelfe) are grown to ſuch a heighth, that after any bloody battels, there is no cure but a preſent peace, otherwiſe nothing can be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pected but certain deſtruction. The Parliamſent is poſſeſt of your Navy and of all <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Forts, gariſons &amp; ſtrong holds of the kingdom: they have the Exciſe, aſſeſſements, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſequeſtrations at their diſpoſal, &amp; have authority to raiſe all the men &amp; mony in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingdom, and (after many victories and great ſucceſſes) they have a ſtrong Army on <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot, and are now in ſuch a poſture for ſtrength and power, as they are in a capacity do what they will, both in Church and State: &amp; ſome are ſo afraid, others ſo unwil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g to ſubmit themſelves to your Majeſties government, as they deſire not you, nor <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y of your race longer to reign over them: Yet the people are ſo wearied of the wars, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great burthens they groan under, are ſo deſirous of peace, and loth to have Monar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>al government (under which they have lived ſo long in peace &amp; plenty) changed; a ſuch as are unwearied of your Maieſties government, dare not attempt to caſt it <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lly off, till once they ſend Propoſitions of peace to your Majeſty, leſt the people <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ithout whoſe concurrence they are not able to carry on their deſign) ſhould fall <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m them. And therefore all the people being deſirous that (after ſo great wars and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ubles) they may have a perfect ſecurity from oppreſſion and arbitrary power, the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uſes of Parliament have reſolved upon the Propoſitions which are tendred to your <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>jeſty, as that without which the Kingdom and your people cannot be in ſafety, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt part of the people think, that there cannot be a firm peace upon any other <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mes. Your Majeſties friends, and the commiſſioners from Scotland, (after all the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſtling we could,) were forced to conſent to the ſending thoſe Propoſitions, or to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ated as the hinderers of peace, and to ſend no Propoſitions at all. And now Sir, if <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Majeſty (which God forbid) ſhall refuſe to aſſent to the Propoſitions, you will <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>all your friends, loſe the City, and all the country, and all England will joyn <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nſt you as one man, and (when al hope of reconciliation is paſt) it is to be feared will proceſſe and depoſe you, and ſet up another Government; they will charge <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deliver your Majeſty to them, and to render the Northern garriſons, and to re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e our Army out of England: &amp; upon your Majeſties refuſing of the Propoſitions, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kingdoms will be conſtrained for their mutual ſafety, to agree &amp; ſettle Religi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>nd Peace without you, which (to our unſpeakable grief) will ruine your Majeſty your poſterity: and if your Majeſty reject our faithfull advice, (who deſire no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g on earth more then the eſtabliſhmrnt of your Majeſties throne,) and loſe Eng<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by your wilfulnes, your Majeſty wil not be permitted to come &amp; ruine Scotland. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, We have laid our hand upon our hearts, we have asked counſell and direction <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, and have had our moſt ſerious thoughts about the Remedy, but can find <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>her (as affairs ſtand for the preſent) to ſave your Crown and Kingdoms, then Majeſties aſſenting to the Propoſitions. We dare not ſay, but they are higher
+<pb n="48" facs="tcp:51658:7" rendition="simple:additions"/>in ſome things (if it were in our power and option to remedy it) then we do approve of; but when we ſee no other meanes for curing the diſtempers of the Kingdoms, and cloſing the breaches between your Majeſty and your Parliament: Our moſt humble and faithful advice is, that your Majeſty would be graciouſly pleaſed to aſſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to them, as the only beſt way to procure a ſpeedy and happy peace; becauſe your Ma<g ref="char:EOLhyphen"/>jeſty ſhall thereby have many great advantages, You will be received again in you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament with the applauſe and acclamations of your People; by your Royall pre<g ref="char:EOLhyphen"/>ſence your friends will be ſtrengthened, Your enemies (who fears nothing ſo much as the granting the Propoſitions) will be weakened, your Majeſty will hav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a fit opportunity to offer ſuch Propoſitions as you ſhall in your wiſdome judg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fit for the Crown and Kingdom; all Armies will be disbanded, and you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people finding the ſweet fruits of your peaceable Government, your Majeſty will gain their hearts and affections, which will be your ſtrength and glory, and will re<g ref="char:EOLhyphen"/>cover all that your Majeſty hath loſt in this time of tempeſt and trouble.</p>
+            <p>And if it pleaſe God ſo to incline your Royal heart to this advice of your humb<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and faithfull ſervants, who (next to the honour of God) eſteem nothing more prec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ous then the ſafety of your perſon and crown, Our actions ſhall quickly make appear to all the world, That we eſteem no hazard too great for your Majeſties ſa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty, and that we are willing to ſacrifice our lives and fortunes for eſtabliſhing your Throne.</p>
+            <p>And now, Sir, we proſtrate our ſelves at your Majeſties feet, and in the loweſt p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſture of humility do beg, That your Majeſty may (in end) grant the ſuit of your <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> humble ſervants and faithfull ſubjects who have no private aimes, but only the g<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ry of God, and ſafety of your Majeſties perſon, poſterity, and crown before <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eyes. And the granting of our deſires will revive our fainting ſpirits: refreſh our hearts, which are overwhelmed, and like to break with ſorrow, and will turn prayers and tears of the many thouſands of your people, in prayſes to God and m<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them embrace your Majeſty with acclamations of joy.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
